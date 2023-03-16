@@ -146,7 +146,7 @@ and also:
 
 The data collected should then be printed on standard output or on a file or returned via an HTTP GET request.
 This is up to you to decide.
-You have freedom of choice also on choosing the output format, as long as it can be easily interpreted by another program **and humans**.  
+You have freedom of choice also for the output format, as long as it can be easily interpreted by another program **and humans**.  
 
 
 <details>
@@ -189,7 +189,7 @@ Your solution can be compiled as a Graal VM native executable.
 #### Bonus #3: Cloud Native application ☁️
 
 + The application is deployed to a public cloud provider (Azure, AWS, GCP or other)
-  - It must be designed so that it is possible to call the harvesting on demand and retrieve the results at a next stage.  
+  - It must be designed so that it is possible to call the data harvesting on demand and retrieve the results at a latter stage.  
     - For example: the app will provide a POST endpoint to start the harvesting and a GET endpoint to retrieve the data.
   - Your deliverable must include instructions on how to build it and deploy it
 
@@ -197,7 +197,8 @@ Your solution can be compiled as a Graal VM native executable.
 
 Please provide the code as a **Maven** or **Gradle** project.
 You are free to choose any language/framework/library that runs on the JVM and fits with the purpose
-of the application. Our preference is for **Kotlin** or **Java** languanges.
+of the application. Our preference is for **Kotlin** or **Java** languanges.  
+Markdown instructions on how to run the program are always appreciated.
 
 ## How to work with GitHub 😼
 You are assigned to your own private repository. Please create a feature branch and **do not commit on master**.
