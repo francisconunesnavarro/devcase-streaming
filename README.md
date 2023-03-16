@@ -32,7 +32,7 @@ complete this. Please be realistic and let our Sytac HR if you need more time. Y
  
 ## Your task: the data harvester  🕵️‍♂️
 Your task, should you choose to accept it, is to create a program that harvest real time usage information
-about the users of `video streaming events' server`. The details of the platform and a list of the requirements is explained down below. You have freedom on choosing the output format, as long as it can be easily interpreted by another program **and humans**.  
+about the users of `video streaming events' server`. The details of the platform and a list of the requirements is explained down below.  
 In order to fulfill the assignment, you will have to consume three REST endpoints by running the video streaming events' server on your machine as described [here.](#how-to-run-the-video-streaming-events-server-locally)
 
 ## The video streaming events server 📺 ##
@@ -143,7 +143,9 @@ and also:
 + the total number of shows released in the past 3 years (for any type of event)
 + for how long the 3 streams were consumed, in milliseconds
 
-The data collected should be then printed on standard output or on a file or returned via an HTTP GET request.  
+
+The data collected should be then printed on standard output or on a file or returned via an HTTP GET request.
+You have freedom on choosing the output format, as long as it can be easily interpreted by another program **and humans**.  
 This is up to you to decide.
 
 <details>
