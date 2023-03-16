@@ -17,7 +17,7 @@ Congratulations to making it this far! The next step in the hiring process consi
 We would like to know you better, and of course, see how you code!
 
 > We have carefully crafted this challenge so that an averagely experienced developer should be able to complete somewhere between 4 and 6
-> hours. If you find yourself spending considerably more than this, please reach out to your Sytac HR and ask
+> hours. If you find yourself spending considerably more time than this, please reach out to your Sytac HR and ask
 > for help.
 
 We appreciate that you may be doing this assignment next to your day job. Or you might have set a weekend aside to
