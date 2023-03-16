@@ -145,8 +145,9 @@ and also:
 
 
 The data collected should then be printed on standard output or on a file or returned via an HTTP GET request.
-You have freedom on choosing the output format, as long as it can be easily interpreted by another program **and humans**.  
 This is up to you to decide.
+You have freedom of choice also on choosing the output format, as long as it can be easily interpreted by another program **and humans**.  
+
 
 <details>
   <summary>Short on time? Here is a hint 💡</summary>
