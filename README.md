@@ -175,7 +175,7 @@ Along with the mandatory requirements, calculate the following statistics:
     - `[{stream-started, s_01, netflix, 01_01_2000}, {stream-ended, s_01, amazon, 01_01_2001}]` => nothing  
     - `[{stream-started, s_01, netflix, 01_01_2000}, {stream-ended, s_02, netflix, 01_01_2001}]` => nothing
     - `[{stream-started, s_01, netflix, 01_01_2000}, {show_liked, s_01, netflix, 01_06_2000}, {stream-ended, s_01, netflix, 01_01_2001}]` => nothing  
-    - `[{stream-ended, s_01, netflix, 01_01_2000}, {stream-started, s_01, s_01, netflix, 01_01_2001}]` => nothing
+    - `[{stream-ended, s_01, netflix, 01_01_2000}, {stream-started, s_01, netflix, 01_01_2001}]` => nothing
 
 - what is the percentage of started streams for Netflix (over the total of the events for the Netflix platform)
 - how many users from China started a stream on more than one streaming platform
