@@ -94,7 +94,7 @@ China(CN) = UTC +8 (Shanghai time)
 ### How to run the video streaming events server locally
 You will need Docker installed on your machine. And then from the terminal type:
 
-For Intel/AMD x64 CPUs:  
+For Intel/AMD x64 based CPUs:  
 `docker run -p 8080:8080 sytacdocker/video-stream-server:latest`
 
 For Arm based CPUs (Apple m1/m2 chip):  
