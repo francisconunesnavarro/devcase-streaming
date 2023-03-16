@@ -86,10 +86,10 @@ Russia(RU) = UTC +3 (Moscow time)
 Indonesia(ID) = UTC +7 (Jakarta time)
 China(CN) = UTC +8 (Shanghai time)
 ```
-<p style="color:darkslateblue; font-size:12px"> <b>Disclaimer</b>: we have no affiliation with the named platforms,
-the data used to generate these endpoints come from a publicly available datasource on the internet,
-The user data is randomly generated. No real user data is exposed by this server.
-</p>
+> Disclaimer: we have no affiliation with the named platforms, 
+> the data used to generate these endpoints come from a publicly available datasource on the internet, 
+> while the user data is randomly generated. No real user data is exposed by this server.  
+
 
 ### How to run the video streaming events server locally
 You will need Docker installed on your machine. And then:
