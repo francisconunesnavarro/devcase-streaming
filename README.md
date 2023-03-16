@@ -88,7 +88,7 @@ China(CN) = UTC +8 (Shanghai time)
 ```
 > Disclaimer: we have no affiliation with the named platforms, 
 > the data used to generate these endpoints come from a publicly available datasource on the internet, 
-> while the user data is randomly generated. No real user data is exposed by this server.  
+> On the the other hand, the user data is completely randomly generated. No real user data is exposed by this server.  
 
 
 ### How to run the video streaming events server locally
