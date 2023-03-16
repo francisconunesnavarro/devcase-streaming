@@ -102,7 +102,7 @@ For Arm based CPUs (Apple m1/m2 chip):
 
 Once the server is running, you will have several endpoints available on your machine: [Netflix](http://localhost:8080/netflix), [Amazon](http://localhost:8080/amazon)
 and [Disney](http://localhost:8080/disney) .  
-All the endpoints are protected by username and password:
+All the endpoints are protected by username and password (basic auth):
 ```
 username = sytac
 password = 4p9g-Dv7T-u8fe-iz6y-SRW2
