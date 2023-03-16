@@ -127,7 +127,7 @@ would be wondering how to impress us more.
 Your application should run for 20 seconds or stop on the third occurence of a user with first name "Sytac" (without quotes) 
 on any of the three platforms (not necessarily the same platform).
 
-During this period, you will have to collect all the events produced by all 3 endpoints and for each 
+During this period, you will have to collect all the events produced by all 3 platforms and for each 
 user encountered, retrieve:
 + their user id
 + their name and surname
