@@ -144,7 +144,7 @@ and also:
 + for how long the 3 streams were consumed, in milliseconds
 
 
-The data collected should be then printed on standard output or on a file or returned via an HTTP GET request.
+The data collected should then be printed on standard output or on a file or returned via an HTTP GET request.
 You have freedom on choosing the output format, as long as it can be easily interpreted by another program **and humans**.  
 This is up to you to decide.
 
