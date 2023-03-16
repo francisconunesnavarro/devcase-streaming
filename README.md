@@ -172,9 +172,10 @@ Along with the mandatory requirements, calculate the following statistics:
 - the total number of `successful streaming events` per user:
   - a successful streaming event is a defined as (sub)sequence of a `stream-started`, followed right after temporally by a `stream-ended` for the same show id and platform. For Example:
     - `[{stream-started, s_01, netflix, 01_01_2000}, {stream-ended, s_01, netflix, 01_01_2001}]` => successful event  
+    - `[{stream-started, s_01, netflix, 01_01_2000}, {stream-ended, s_01, amazon, 01_01_2001}]` => nothing  
     - `[{stream-started, s_01, netflix, 01_01_2000}, {stream-ended, s_02, netflix, 01_01_2001}]` => nothing
     - `[{stream-started, s_01, netflix, 01_01_2000}, {show_liked, s_01, netflix, 01_06_2000}, {stream-ended, s_01, netflix, 01_01_2001}]` => nothing  
-    - `[{stream-ended, netflix, 01_01_2000}, {stream-started, s_01, s_01, netflix, 01_01_2001}]` => nothing
+    - `[{stream-ended, s_01, netflix, 01_01_2000}, {stream-started, s_01, s_01, netflix, 01_01_2001}]` => nothing
 
 - what is the percentage of started streams for Netflix (over the total of the events for the Netflix platform)
 - how many users from China started a stream on more than one streaming platform
