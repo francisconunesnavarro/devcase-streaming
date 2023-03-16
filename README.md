@@ -183,7 +183,7 @@ Along with the mandatory requirements, calculate the following statistics:
 
 #### Bonus #2: Graal VM'er ⚡
 
-Your solution can be compiled as a native executable and can run on Graal VM.
+Your solution can be compiled as a Graal VM native executable.
 
 #### Bonus #3: Cloud Native application ☁️
 
