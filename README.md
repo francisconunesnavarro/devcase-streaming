@@ -87,10 +87,7 @@ Indonesia(ID) = UTC +7 (Jakarta time)
 China(CN) = UTC +8 (Shanghai time)
 ```
 <p style="color:darkslateblue; font-size:12px"> <b>Disclaimer</b>: we have no affiliation with the named platforms,
-the data used to generate these mock endpoints come  from Kaggle, see : 
-<a href="https://www.kaggle.com/datasets/shivamb/netflix-shows">Netflix</a>,
-<a href="https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows">Amazon</a>,
-<a href="https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows">Disney</a>.<br/>  
+the data used to generate these endpoints come from a publicly available datasource on the internet,
 The user data is randomly generated. No real user data is exposed by this server.
 </p>
 
