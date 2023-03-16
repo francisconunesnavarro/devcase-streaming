@@ -37,7 +37,7 @@ In order to fulfill the assignment, you will have to consume three streaming end
 
 ## The video streaming events server 📺 ##
 
-The video streaming events server exposes near real-time information regarding tv shows and movies streamed by users
+The `video streaming events server` exposes near real-time information regarding tv shows and movies streamed by users
 on 3 streaming platform: Netflix, Amazon and Disney.  
 Each of the endpoint exposes a stream of infinite events representing either the start of a streaming (`stream-started`) ,
 the end of a streaming (`stream-ended`), liking a show (`show-liked`) or a problem during the streaming of a show
