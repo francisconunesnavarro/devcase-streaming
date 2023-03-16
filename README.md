@@ -92,16 +92,15 @@ China(CN) = UTC +8 (Shanghai time)
 
 
 ### How to run the video streaming events server locally
-You will need Docker installed on your machine. And then:
+You will need Docker installed on your machine. And then from the terminal type:
 
-For Intel/AMD CPUs:  
+For Intel/AMD x64 CPUs:  
 `docker run -p 8080:8080 sytacdocker/video-stream-server:latest`
 
 For Arm based CPUs (Apple m1/m2 chip):  
 `docker run -p 8080:8080 sytacdocker/video-stream-server-arm:latest`
 
-Once the server is running, you will have several endpoints available on your machine: [Netflix](http://localhost:8080/netflix), [Amazon](http://localhost:8080/amazon)
-and [Disney](http://localhost:8080/disney) .  
+Once the server is running, you will have several endpoints available on your machine: [Netflix](http://localhost:8080/netflix), [Amazon](http://localhost:8080/amazon) and [Disney](http://localhost:8080/disney) .  
 All the endpoints are protected by username and password (basic auth):
 ```
 username = sytac
