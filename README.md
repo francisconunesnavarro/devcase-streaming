@@ -14,7 +14,7 @@
 # Sytac Development Challenge #
 
 Congratulations to making it this far! The next step in the hiring process consist in a small coding assignment.  
-We would like to know you better, and of course, see how you code!
+We would like to know you better, and there is no better way than to see how you code!
 
 > We have carefully crafted this challenge so that an averagely experienced developer should be able to complete somewhere between 4 and 6
 > hours. If you find yourself spending considerably more time than this, please reach out to your Sytac HR and ask
