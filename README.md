@@ -106,7 +106,7 @@ All the endpoints are protected by username and password (basic auth):
 username = sytac
 password = 4p9g-Dv7T-u8fe-iz6y-SRW2
 ```
-## Code review/evaluation criteria 👀
+## Code review/evaluation criteria 🏅
 
 Your submission will be evaluated by Sytac on the following criteria:
 
