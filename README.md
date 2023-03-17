@@ -24,10 +24,10 @@ We appreciate that you may be doing this assignment next to your day job. Or you
 complete this. Please be realistic and let our Sytac HR if you need more time. You are not judged on time it takes you to complete this assignment.
 
 ## Technical Requirements 🔧
- - [Docker](https://www.docker.com) installed locally
- - [Git](https://git-scm.com) installed locally
+ - [Docker](https://www.docker.com)
+ - [Git](https://git-scm.com)
  - a Github account
- - a recent JDK installation (11+)
+ - a recent JDK release (11+)
  - your favorite IDE
  
 ## Your task: the data harvester  🕵️‍♂️
