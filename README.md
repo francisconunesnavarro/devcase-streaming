@@ -118,7 +118,7 @@ Your submission will be evaluated by Sytac on the following criteria:
 + Careful choice of tools and data formats
 + Use of production-ready approaches
 
-There are bonus points that you *may* do. These are provided as an inspiration where you can show off, in case you
+There are bonus requirements that you *may* do. These are provided as an inspiration where you can show off, in case you
 would be wondering how to impress us more.
 
 ## Mandatory Requirements 📜
