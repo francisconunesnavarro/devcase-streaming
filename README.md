@@ -169,7 +169,7 @@ You have freedom of choice also for the output format, as long as it can be easi
 Unfortunately, the server is bugged: from time to time the data returned is not well-formed.
 </details>
 
-## Bonus Requirements
+## Bonus Requirements 🌟
 
 > These requirements are optional points that you may implement if you are looking to impress us 🎩. 
 
