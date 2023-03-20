@@ -88,7 +88,7 @@ China(CN) = UTC +8 (Shanghai time)
 ```
 > Disclaimer: we have no affiliation with the named platforms, 
 > the data used to generate these endpoints come from a publicly available datasource on the internet. 
-> On the the other hand, the user data is completely randomly generated. No real user data is exposed by this server.  
+> On the other hand, the user data is completely randomly generated. No real user data is exposed by this server.  
 
 
 ### How to run the video streaming events server locally
@@ -123,7 +123,7 @@ would be wondering how to impress us more.
 
 ## Mandatory Requirements 📜
 
-Your application should run for 20 seconds or stop on the third occurence of a user with first name "Sytac" (without quotes) 
+Your application should run for 20 seconds or stop on the third occurrence of a user with first name "Sytac" (without quotes) 
 on any of the three platforms (not necessarily the same platform).
 
 During this period, you will have to collect all the events produced by all 3 platforms and for each 
@@ -203,7 +203,7 @@ Your solution can be compiled and ran as a Graal VM native executable.
 
 Please provide the code as a **Maven** or **Gradle** project.
 You are free to choose any language/framework/library that runs on the JVM and fits with the purpose
-of the application. Our preference is for **Kotlin** or **Java** languanges.  
+of the application. Our preference is for **Kotlin** or **Java** languages.  
 Markdown instructions on how to run the program are always appreciated.
 
 ## How to work with GitHub 😼
